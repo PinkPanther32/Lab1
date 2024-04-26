@@ -1,1 +1,1 @@
-#ET7035- Lab 1 (Introduction to Python programming)
+#ET7035- Lab 1 (Introduction to Git and Github)
